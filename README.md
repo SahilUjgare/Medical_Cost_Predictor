@@ -77,7 +77,3 @@ The prediction is powered by a pre-trained machine learning model.
 
 ```
 
----
-
-Would you like me to make this README more **GitHub-friendly** (with emojis, badges, and example screenshots)?
-```
