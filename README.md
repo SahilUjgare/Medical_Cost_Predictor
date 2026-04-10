@@ -76,4 +76,3 @@ The prediction is powered by a pre-trained machine learning model.
 **Made with ❤️ using Python and Streamlit*
 
 ```
-
