@@ -1,4 +1,4 @@
-# Medical_Cost_Predictor :
+# Medical_Cost_Predictor 
 
 ```markdown
 
