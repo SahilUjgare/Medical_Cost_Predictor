@@ -3,7 +3,7 @@
 ```markdown
 
 This is a simple **Streamlit web application** that predicts medical insurance charges based on user inputs such as age, gender, BMI, smoking habits, and region.  
-The prediction is powered by a pre-trained machine learning model.
+The prediction is powered by a pre-trained machine learning model
 
 ---
 
